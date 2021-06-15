@@ -45,6 +45,7 @@ Unlike other options, the “Time-Turner” device is self-contained, battery-po
 * Button A: Cycle through modes of operation (see modes of operation below)
 * Button B: Cycle through possible votes (A-E)
 * Button C: Toggle selected mode on/off; resets all counters
+
 Estimated percent battery life remaining is indicated on the bottom right. Battery use is higher when any mode is toggled “on”. The device remains operational while charging.
 
 ## Modes of Operation
@@ -65,5 +66,7 @@ If an instructor is using an attendance device to controll their machine, additi
 * Time-Turner: https://github.com/VCNinc/Time-Turner
 * iSkipper Software: https://github.com/charlescao460/iSkipper-Software
 * iSkipper: https://github.com/wizard97/iSkipper
+
 *Contributors: [Aaron Wisner](https://github.com/wizard97), [Jacob Glueck](https://github.com/orangeturtle739), [Charles Cao](https://github.com/charlescao460), [Ammar Askar](https://github.com/ammaraskar), [Bruce Land](https://people.ece.cornell.edu/land/), [Vivek Nair](https://github.com/VCNinc)*
+
 *License: [MIT](https://github.com/VCNinc/Time-Turner/blob/main/LICENSE)*
