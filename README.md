@@ -9,7 +9,7 @@ The “Time-Turner” project is provided for entertainment and experimental res
 ## Introduction
 RFID-based attendance and polling devices have become an increasingly popular way to monitor student attendance and participation. “Time-Turner” is an Arduino-based device that can emulate a popular RFID attendance device (thus allowing you to appear to be in two places at once). It is capable of intercepting other poll responses and choosing the most popular answer. This repository contains the “Time-Turner” firmware and instructions for configuring the necessary hardware to build your own “Time-Turner” device.
 
-Unlike other options, the “Time-Turner” device is self-contained, battery-powered, and does not require a physical connection to any other device. It can be built for about $39 using easily-accessible off-the-shelf components - less than the cost of a legitimate RFID attendance system. The assembled device weighs about 20g and lasts for over 20 hours on a single charge. It should take an hour or less to fully assemble and configure.
+Unlike other options, the “Time-Turner” device is self-contained, battery-powered, and does not require a physical connection to any other device. It can be built for about $39 using easily-accessible off-the-shelf components - less than the cost of a legitimate RFID attendance system. The assembled device weighs about 20g and lasts for over 20 hours on a single charge. The compiled firmware requires about 50kb of flash storage space. It should take an hour or less to fully assemble and configure.
 
 “Time-Turner” is developed by Vivek Nair and is based on the previous work of Aaron Wisner, Jacob Glueck, and Charles Cao in reverse-engineering the proprietary protocol used by the targeted RFID attendance device.
 
@@ -62,8 +62,8 @@ If an instructor is using an attendance device to controll their machine, additi
 * Changing the answer marked as "correct"
 
 ## Source Repositories
-Time-Turner: https://github.com/VCNinc/Time-Turner
-iSkipper Software: https://github.com/charlescao460/iSkipper-Software
-iSkipper: https://github.com/wizard97/iSkipper
+* Time-Turner: https://github.com/VCNinc/Time-Turner
+* iSkipper Software: https://github.com/charlescao460/iSkipper-Software
+* iSkipper: https://github.com/wizard97/iSkipper
 *Contributors: [Aaron Wisner](https://github.com/wizard97), [Jacob Glueck](https://github.com/orangeturtle739), [Charles Cao](https://github.com/charlescao460), [Ammar Askar](https://github.com/ammaraskar), [Bruce Land](https://people.ece.cornell.edu/land/), [Vivek Nair](https://github.com/VCNinc)*
 *License: [MIT](https://github.com/VCNinc/Time-Turner/blob/main/LICENSE)*
